@@ -7,8 +7,10 @@
     <Description>Open-source C# implementation of QuickFIX</Description>
     <Copyright>QuickFIXn.org 2011-now</Copyright>
     <Authors>Connamara Systems, LLC and QuickFIX/n contributors</Authors>
-    <Version>1.8.0</Version>
+    <Version>1.8.0.1</Version>
     <Platforms>AnyCPU;x64</Platforms>
+    <AssemblyVersion>1.8.0.1</AssemblyVersion>
+    <FileVersion>1.8.0.1</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
